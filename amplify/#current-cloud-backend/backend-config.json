@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsvulcan4d3cbae4": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
